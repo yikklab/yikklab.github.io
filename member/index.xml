@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on YiLab</title>
+    <link>http://xianqing.github.io/member/</link>
+    <description>Recent content in Members on YiLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 **Keke Yi&#39;s Lab**. All Rights Reserved</copyright><atom:link href="http://xianqing.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prof. Keke Yi, PI</title>
+      <link>http://xianqing.github.io/member/kekeyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://xianqing.github.io/member/kekeyi/</guid>
+      <description>I’m a group leader of soil-plant interaction at the Institute of Agricultural Resources and Regional Planning (IARRP) from the Chinese Academy of Agricultural Sciences (CAAS). My group is working with the molecular mechanism of Pi uptake and homeostasis in plants.</description>
+    </item>
+    
+    <item>
+      <title>Xianqing Jia, PostDoc</title>
+      <link>http://xianqing.github.io/member/xianqingjia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://xianqing.github.io/member/xianqingjia/</guid>
+      <description>Xianqing finished his PhD study at Nanjing University and joined our lab in June 2020. He has board interest in evolution of genomic features accompanied by morphologic changes in plants.</description>
+    </item>
+    
+  </channel>
+</rss>
