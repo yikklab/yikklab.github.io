@@ -3,71 +3,195 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.org/blog/post-1/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://examplesite.org/about/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/post-4/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://examplesite.org/tags/article/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/post-5/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://examplesite.org/categories/article/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/post-6/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://examplesite.org/categories/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://examplesite.org/charming-evening-field.1/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://examplesite.org/charming-evening-field.10/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/post-2/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://examplesite.org/charming-evening-field.11/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/blog/post-3/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://examplesite.org/charming-evening-field.2/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/categories/</loc>
+    <loc>https://examplesite.org/charming-evening-field.3/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/contact/</loc>
+    <loc>https://examplesite.org/charming-evening-field.4/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/faq/</loc>
+    <loc>https://examplesite.org/charming-evening-field.5/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/pricing/</loc>
+    <loc>https://examplesite.org/charming-evening-field.6/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/privacy-policy/</loc>
+    <loc>https://examplesite.org/charming-evening-field.7/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/tags/</loc>
+    <loc>https://examplesite.org/charming-evening-field.8/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.org/terms-conditions/</loc>
+    <loc>https://examplesite.org/charming-evening-field.9/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/charming-evening-field/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/contact/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/fashion/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/fashion/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/finance/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/food/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/food/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/nature/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/nature/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/organize-your-life.1/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/organize-your-life.2/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/organize-your-life.3/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/organize-your-life.4/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/organize-your-life/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/philosophy/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/philosophy/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/photos/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/search/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/valuable-idea/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/homepage/home-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/homepage/home-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/homepage/</loc>
   </url>
   
 </urlset>
