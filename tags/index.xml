@@ -1,28 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on YiLab</title>
-    <link>http://yikklab.github.io/tags/</link>
-    <description>Recent content in Tags on YiLab</description>
+    <title>Tags on Airspace | Creative Agency Hugo Template</title>
+    <link>http://examplesite.org/tags/</link>
+    <description>Recent content in Tags on Airspace | Creative Agency Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 **Keke Yi&#39;s Lab**. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="http://yikklab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate><atom:link href="http://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advice</title>
-      <link>http://yikklab.github.io/tags/advice/</link>
+      <link>http://examplesite.org/tags/advice/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>http://yikklab.github.io/tags/advice/</guid>
+      <guid>http://examplesite.org/tags/advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>http://examplesite.org/tags/ai/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>http://examplesite.org/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>http://examplesite.org/tags/android/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>http://examplesite.org/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company</title>
+      <link>http://examplesite.org/tags/company/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>http://examplesite.org/tags/company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechine</title>
+      <link>http://examplesite.org/tags/mechine/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>http://examplesite.org/tags/mechine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://examplesite.org/tags/news/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>http://examplesite.org/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retro</title>
+      <link>http://examplesite.org/tags/retro/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>http://examplesite.org/tags/retro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>http://yikklab.github.io/tags/technology/</link>
+      <link>http://examplesite.org/tags/technology/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>http://yikklab.github.io/tags/technology/</guid>
+      <guid>http://examplesite.org/tags/technology/</guid>
       <description></description>
     </item>
     
