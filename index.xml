@@ -8,19 +8,19 @@
     <language>en</language>
     <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yikklab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prof. Keke Yi, PI</title>
+      <title>Prof. Keke Yi</title>
       <link>https://yikklab.github.io/member/kekeyi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yikklab.github.io/member/kekeyi/</guid>
       <description>I’m a group leader of soil-plant interaction at the Institute of Agricultural Resources and Regional Planning (IARRP) from the Chinese Academy of Agricultural Sciences (CAAS). My group is working with the molecular mechanism of Pi uptake and homeostasis in plants. We are also interested with how the plants sense the external nutrition availability to modulate growth.
- Research Interests:  Function and Evolution of Phosphate Transporter
+  Research Interests:  Function and Evolution of Phosphate Transporter
 Plant nutritions
 Cell and Develpment Biology</description>
     </item>
     
     <item>
-      <title>Xianqing Jia, PostDoc</title>
+      <title>Dr. Xianqing Jia</title>
       <link>https://yikklab.github.io/member/xianqingjia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,25 +38,20 @@ Multi-omics analysis
     <item>
       <title>Publications</title>
       <link>https://yikklab.github.io/publication/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yikklab.github.io/publication/</guid>
-      <description>Latest update: 2021-02-05
- 2021  Wang, L., Jia, X., Zhang, Y., Xu, L., Menand, B., Zhao, H., Zeng, H., Dolan, L., Zhu, Y., &amp;amp; Yi, K. (2021). Loss of two families of SPX domain-containing proteins required for vacuolar polyphosphate accumulation coincides with the transition to phosphate storage in green plants. Molecular Plant, 0(0). [Link] [PubMed]
- 2020  Wang, L., Xiao, L., Yang, H., Chen, G., Zeng, H., Zhao, H.</description>
+      <description>2021  Wang, L., Jia, X., Zhang, Y., Xu, L., Menand, B., Zhao, H., Zeng, H., Dolan, L., Zhu, Y., &amp;amp; Yi, K. (2021). Loss of two families of SPX domain-containing proteins required for vacuolar polyphosphate accumulation coincides with the transition to phosphate storage in green plants. Molecular Plant, 0(0). [Link] [PubMed]
+ 2020  Wang, L., Xiao, L., Yang, H., Chen, G., Zeng, H., Zhao, H., &amp;amp; Zhu, Y.</description>
     </item>
     
     <item>
       <title>Contact</title>
       <link>https://yikklab.github.io/contact/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yikklab.github.io/contact/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>aa aa</description>
     </item>
     
     <item>
