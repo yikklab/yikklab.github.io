@@ -1,239 +1,336 @@
 <!DOCTYPE html>
-<html lang="en-us"><head>
-  <meta charset="utf-8">
-  <title>Frequently Asked Questions</title>
+<html lang="en-us">
 
-  <!-- mobile responsive meta -->
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="this is meta description">
-  <meta name="author" content="Themefisher">
+  <head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>FAQ</title>
+  <meta name="author" content="DevCows" />
+  
+  
+  
+  
+  <meta name="keywords" content="devows, hugo, go, FAQ, How do I, questions, what if">
+  
+  
+  <meta name="description" content="Frequently asked questions">
+
   <meta name="generator" content="Hugo 0.78.2" />
 
-  <!-- plugins -->
   
-  <link rel="stylesheet" href="http://examplesite.org/plugins/bootstrap/bootstrap.min.css" media='screen'>
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
   
-  <link rel="stylesheet" href="http://examplesite.org/plugins/Ionicons/css/ionicons.min.css" >
+  <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.11.2/css/all.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
   
-  <link rel="stylesheet" href="http://examplesite.org/plugins/magnific-popup/magnific-popup.min.css" >
+  <link href="/css/animate.css" rel="stylesheet">
+
   
-  <link rel="stylesheet" href="http://examplesite.org/plugins/slick/slick.css" >
+  
+    <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
   
 
-  <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href="http://examplesite.org/scss/style.min.css" media="screen">
+  <link href="/css/custom.css" rel="stylesheet">
 
-  <!--Favicon-->
-  <link rel="shortcut icon" href="http://examplesite.org/images/favicon.png" type="image/x-icon">
-  <link rel="icon" href="http://examplesite.org/images/favicon.png" type="image/x-icon">
-
-</head><body>
-<!-- preloader start -->
-<div class="preloader">
   
-</div>
-<!-- preloader end -->
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
 
-<header class="navigation">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-12">
-        
-        <nav class="navbar">
-          
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/">
-              <img src="http://examplesite.org/images/logo.png" alt="Airspace | Creative Agency Hugo Template" width="150px" class="img-responsive">
-            </a>
-          </div>
-          
-          <div class="collapse navbar-collapse" id="navigation">
-            <ul class="nav navbar-nav navbar-right">
-              
-              
-              <li><a href="/">Home</a></li>
-              
-              
-              
-              <li><a href="/about">About</a></li>
-              
-              
-              
-              <li><a href="/project">Project</a></li>
-              
-              
-              
-              <li><a href="/blog">Blog</a></li>
-              
-              
-              
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                  aria-expanded="false">Pages <span class="ion-ios-arrow-down"></span></a>
-                <ul class="dropdown-menu">
+  
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
+
+  
+  <link href="/css/owl.carousel.css" rel="stylesheet">
+  <link href="/css/owl.theme.css" rel="stylesheet">
+
+  
+  <link rel="alternate" href="https://example.org/index.xml" type="application/rss+xml" title="Universal">
+
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:locale" content="en_us">
+  <meta property="og:site_name" content="Universal">
+  <meta property="og:title" content="FAQ">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://example.org/faq/" />
+  <meta property="og:description" content="Frequently asked questions">
+  <meta property="og:image" content="https://example.org/img/sharing-default.png">
+  <meta property="og:image:type" content="image/png">
+  
+  
+  
+    <meta property="og:image:width" content="800">
+    <meta property="og:image:height" content="420">
+  
+  
+  
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@GoHugoIO">
+  <meta name="twitter:title" content="FAQ">
+  
+  <meta name="twitter:image" content="https://example.org/img/sharing-default.png">
+  
+  <meta name="twitter:description" content="Frequently asked questions">
+  
+
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
+    <div class="navbar navbar-default yamm" role="navigation" id="navbar">    
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="/">
+                    <img src="/img/logo.png" alt="FAQ logo" class="hidden-xs hidden-sm">
+                    <img src="/img/logo-small.png" alt="FAQ logo" class="visible-xs visible-sm">
+                    <span class="sr-only">FAQ - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Toggle Navigation</span>
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
                   
-                  <li><a href="/faq">FAQ</a></li>
                   
-                  <li><a href="/pricing">Pricing</a></li>
                   
-                  <li><a href="/service">Service</a></li>
+                  <li class="dropdown">
+                    
+                    <a href="/">Home</a>
+                    
+                  </li>
+                  
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/blog/">Blog</a>
+                    
+                  </li>
+                  
+                  
+                  <li class="dropdown active">
+                    
+                    <a href="/faq/">FAQ</a>
+                    
+                  </li>
+                  
+                  
+                  <li class="dropdown">
+                    
+                    <a href="/contact/">Contact</a>
+                    
+                  </li>
                   
                 </ul>
-              </li>
-              
-              
-              
-              <li><a href="/contact">Contact</a></li>
-              
-              
+            </div>
+            
 
-              
-              <li>
-                <select id="select-language" onchange="location = this.value;">
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  <option id="en" value="http://examplesite.org/author/john-doe/" selected>
-                    En
-                  </option>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  <option id="fr" value="http://examplesite.org/fr/author/john-doe/">Fr
-                  </option>
-                  
-                  
-                  
-                  
-                </select>
-              </li>
-              
-            </ul>
-          </div>
-        </nav>
-      </div>
+            <div class="collapse clearfix" id="search">    
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+                </span>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
     </div>
-  </div>
 </header>
 
-<section class="page-title bg-2" style="background-image: url('http://examplesite.org/images/featue-bg.jpg');">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h1>Frequently Asked Questions</h1>
-          <p>this is meta description</p>
+
+
+
+        <div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ</h1>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-</section>
+</div>
 
 
+        <div id="content">
+            
 
-<section class="page-wrapper">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4 sticky-top">
-        <h2>Frequently Asked Questions</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.</p>
-        <p>Last updated: March 23, 2020</p>
-        <p>Phone: <a href="tel:0124857985320">0124857985320</a></p>
-        <p>Email: <a href="mailto:demo@email.com">demo@email.com</a></p>
-        <p>Location: North Main Street,Brooklyn Australia</p>
-      </div>
-      <div class="col-md-8">
-        <h3 id="welcome-to-airspace">Welcome to Airspace!</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.</p>
-<h4 id="1overview">1.Overview</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.</p>
-<h4 id="2-data-we-collect">2. Data We Collect</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.</p>
-<h4 id="3-how-we-use-data">3. How We Use Data</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.</p>
-<h4 id="4-how-we-disclose-data">4. How We Disclose Data.</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!</p>
-<h4 id="5-security">5. Security</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.</p>
-<h4 id="6-advertising">6. Advertising.</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.</p>
+            <div class="container">
 
-      </div>
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                        <div>
+                          <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<h2 id="1-what-to-do-if-i-have-still-not-received-the-order">1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?</h2>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+<li>Vestibulum auctor dapibus neque.</li>
+</ul>
+<h2 id="2-what-are-the-postal-rates">2. WHAT ARE THE POSTAL RATES?</h2>
+<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&rsquo;t heard of them accusamus labore sustainable VHS.</p>
+<h2 id="3-do-you-send-overseas">3. DO YOU SEND OVERSEAS?</h2>
+<p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&rsquo;t heard of them accusamus labore sustainable VHS.</p>
+<h2 id="4-why-are-you-more-expensive-than-others">4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?</h2>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+<li>Vestibulum auctor dapibus neque.</li>
+</ul>
+<h2 id="5-another-important-question">5. ANOTHER IMPORTANT QUESTION</h2>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+<li>Vestibulum auctor dapibus neque.</li>
+</ul>
+<hr>
+<blockquote>
+<p>In case you haven&rsquo;t found the answer for your question please feel free to contact us, our customer support will be happy to help you.</p>
+</blockquote>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                
+
+            </div>
+            
+
+            
+        </div>
+        
+
+        <footer id="footer">
+    <div class="container">
+
+        
+        <div class="col-md-4 col-sm-6">
+            <h4>About us</h4>
+
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+        <div class="col-md-4 col-sm-6">
+
+             
+            <h4>Recent posts</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://example.org/blog/2015/10/02/linked-post/">
+                          
+                            <img src="/img/banners/banner-4.jpg" class="img-responsive" alt="Linked post">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://example.org/blog/2015/10/02/linked-post/">Linked post</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://example.org/blog/2015/09/17/go-is-for-lovers/">
+                          
+                            <img src="/img/banners/banner-2.jpg" class="img-responsive" alt="Go is for lovers">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://example.org/blog/2015/09/17/go-is-for-lovers/">Go is for lovers</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://example.org/blog/2015/08/03/hugo-is-for-lovers/">
+                          
+                            <img src="/img/banners/banner-3.jpg" class="img-responsive" alt="Hugo is for lovers">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://example.org/blog/2015/08/03/hugo-is-for-lovers/">Hugo is for lovers</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+
+            <hr class="hidden-md hidden-lg">
+             
+
+        </div>
+        
+
+        
+        <div class="col-md-4 col-sm-6">
+
+          <h4>Contact</h4>
+
+            <p class="text-uppercase"><strong>Universal Ltd.</strong>
+        <br>13/25 New Avenue
+        <br>Newtown upon River
+        <br>45Y 73J
+        <br>England
+        <br>
+        <strong>Great Britain</strong>
+      </p>
+      
+
+            <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
     </div>
-  </div>
-</section>
-
-<footer class="footer">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="footer-manu">
-					<ul>
-            
-            <li><a href="http://examplesite.org/about">About</a></li>
-            
-            <li><a href="http://examplesite.org/project">Project</a></li>
-            
-            <li><a href="http://examplesite.org/service">Service</a></li>
-            
-            <li><a href="http://examplesite.org/pricing">Pricing</a></li>
-            
-            <li><a href="http://examplesite.org/faq">FAQ</a></li>
-            
-            <li><a href="http://examplesite.org/contact">Contact</a></li>
-            
-					</ul>
-				</div>
-				<p class="copyright">Copyright © 2020 <a href="https://themefisher.com">Themefisher</a> All Rights Reserved</p>
-			</div>
-		</div>
-	</div>
+    
 </footer>
 
 
@@ -241,64 +338,51 @@ expedita, ad.</p>
 
 
 
-<script src="http://examplesite.org/plugins/jQuery/jquery.min.js" ></script>
 
-<script src="http://examplesite.org/plugins/bootstrap/bootstrap.min.js" ></script>
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-left">Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</p>
+            
+            <p class="pull-right">
+              Template by <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
+              
 
-<script src="http://examplesite.org/plugins/slick/slick.min.js" ></script>
-
-<script src="http://examplesite.org/plugins/magnific-popup/magnific-popup.min.js" ></script>
-
-<script src="http://examplesite.org/plugins/shuffle/shuffle.min.js" ></script>
-
-<script src="http://examplesite.org/plugins/google-map/gmap.js" ></script>
-
-
-
-
-<script src="http://examplesite.org/js/script.min.js"></script>
-
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
+              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+            </p>
+        </div>
+    </div>
 </div>
-<script>
-	(function ($) {
-		const cookieBox = document.getElementById('js-cookie-box');
-		const cookieButton = document.getElementById('js-cookie-button');
-		if (!Cookies.get('cookie-box')) {
-			cookieBox.classList.remove('cookie-box-hide');
-			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
-					expires:  2 
-				});
-				cookieBox.classList.add('cookie-box-hide');
-			};
-		}
-	})(jQuery);
-</script>
 
 
-<style>
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
-}
 
-.cookie-box-hide {
-  display: none;
-}
-</style>
-</body>
 
+
+    </div>
+    
+
+    
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y&v=3.exp"></script>
+
+<script src="/js/hpneo.gmaps.js"></script>
+<script src="/js/gmaps.init.js"></script>
+
+<script src="/js/front.js"></script>
+
+
+<script src="/js/owl.carousel.min.js"></script>
+
+
+
+  </body>
 </html>
