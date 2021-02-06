@@ -1,105 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://example.org/blog/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.org/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/ipsum/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.org/categories/lorem/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.org/blog/1/01/01/migrate-from-jekyll/</loc>
-  </url>
-  
-</urlset>
+    <url>
+      <loc>https://example.com/tags/basic-elements/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/post/basic-elements/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/categories/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/css/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/categories/development/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/html/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/post/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/post/creating-a-new-theme/</loc>
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/about/</loc>
+      <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/post/goisforlovers/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/development/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/post/hugoisforlovers/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/go/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/golang/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/categories/golang/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/hugo/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/templates/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/tags/themes/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://example.com/post/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    </url>
+    </urlset>
