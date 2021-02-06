@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on YiLab</title>
+    <link>https://yikklab.github.io/member/</link>
+    <description>Recent content in Members on YiLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://yikklab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prof. Keke Yi, PI</title>
+      <link>https://yikklab.github.io/member/kekeyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yikklab.github.io/member/kekeyi/</guid>
+      <description>I’m a group leader of soil-plant interaction at the Institute of Agricultural Resources and Regional Planning (IARRP) from the Chinese Academy of Agricultural Sciences (CAAS). My group is working with the molecular mechanism of Pi uptake and homeostasis in plants. We are also interested with how the plants sense the external nutrition availability to modulate growth.
+ Research Interests:  Function and Evolution of Phosphate Transporter
+Plant nutritions
+Cell and Develpment Biology</description>
+    </item>
+    
+    <item>
+      <title>Xianqing Jia, PostDoc</title>
+      <link>https://yikklab.github.io/member/xianqingjia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yikklab.github.io/member/xianqingjia/</guid>
+      <description>Xianqing finished his PhD study at Nanjing University and joined our lab in June 2020. He has board interest in evolution of genomic features accompanied by morphologic changes in plants.
+ Research Interests:  Evo-Devo
+Molecular Genetics and Evolution
+Bioinformatics
+Multi-omics analysis
+  Education:  2017.09 - 2020.06, PhD in Biology, Nanjing University
+2014.09 - 2017.06, MEng in Pharmacy engineering, Nanjing University
+2010.09 - 2014.06, BS in Biotechnology, Qinghai University</description>
+    </item>
+    
+  </channel>
+</rss>

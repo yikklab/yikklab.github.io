@@ -16,5 +16,14 @@
       <description>aa aa</description>
     </item>
     
+    <item>
+      <title>Our MP paper is online now!</title>
+      <link>https://yikklab.github.io/post/test/basic-elements/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yikklab.github.io/post/test/basic-elements/</guid>
+      <description>aa aa</description>
+    </item>
+    
   </channel>
 </rss>

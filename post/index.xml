@@ -17,13 +17,12 @@
     </item>
     
     <item>
-      <title>Basic HTML Elements</title>
+      <title>Our MP paper is online now!</title>
       <link>https://yikklab.github.io/post/test/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yikklab.github.io/post/test/basic-elements/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;placeholder.png&#34; alt=&#34;avatar&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+      <description>aa aa</description>
     </item>
     
   </channel>
