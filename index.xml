@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hugo DPSG</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Home on Hugo DPSG</description>
+    <title>Home on YiLab</title>
+    <link>https://yikklab.github.io/</link>
+    <description>Recent content in Home on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yikklab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Members</title>
-      <link>https://example.com/members/</link>
+      <link>https://yikklab.github.io/members/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/members/</guid>
+      <guid>https://yikklab.github.io/members/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -22,10 +22,10 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://yikklab.github.io/publication/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/</guid>
+      <guid>https://yikklab.github.io/publication/</guid>
       <description>Latest update: 2021-02-05
  2021  Wang, L., Jia, X., Zhang, Y., Xu, L., Menand, B., Zhao, H., Zeng, H., Dolan, L., Zhu, Y., &amp;amp; Yi, K. (2021). Loss of two families of SPX domain-containing proteins required for vacuolar polyphosphate accumulation coincides with the transition to phosphate storage in green plants. Molecular Plant, 0(0). [Link] [PubMed]
  2020  Wang, L., Xiao, L., Yang, H., Chen, G., Zeng, H., Zhao, H.</description>
@@ -33,10 +33,10 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://yikklab.github.io/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://yikklab.github.io/contact/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -46,19 +46,19 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Our MP paper is online now!</title>
-      <link>https://example.com/post/2021mp/2021mp/</link>
+      <link>https://yikklab.github.io/post/2021mp/2021mp/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2021mp/2021mp/</guid>
+      <guid>https://yikklab.github.io/post/2021mp/2021mp/</guid>
       <description>aa aa</description>
     </item>
     
     <item>
       <title>Basic HTML Elements</title>
-      <link>https://example.com/post/test/basic-elements/</link>
+      <link>https://yikklab.github.io/post/test/basic-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/test/basic-elements/</guid>
+      <guid>https://yikklab.github.io/post/test/basic-elements/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;placeholder.png&#34; alt=&#34;avatar&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
     </item>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Category 2 on Hugo DPSG</title>
-    <link>https://example.com/categories/category-2/</link>
-    <description>Recent content in Category 2 on Hugo DPSG</description>
+    <title>Category 2 on YiLab</title>
+    <link>https://yikklab.github.io/categories/category-2/</link>
+    <description>Recent content in Category 2 on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yikklab.github.io/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our MP paper is online now!</title>
-      <link>https://example.com/post/2021mp/2021mp/</link>
+      <link>https://yikklab.github.io/post/2021mp/2021mp/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/2021mp/2021mp/</guid>
+      <guid>https://yikklab.github.io/post/2021mp/2021mp/</guid>
       <description>aa aa</description>
     </item>
     

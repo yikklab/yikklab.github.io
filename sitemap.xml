@@ -1,77 +1,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://example.com/members/</loc>
+      <loc>https://yikklab.github.io/members/</loc>
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/publication/</loc>
+      <loc>https://yikklab.github.io/publication/</loc>
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/contact/</loc>
+      <loc>https://yikklab.github.io/contact/</loc>
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/</loc>
+      <loc>https://yikklab.github.io/categories/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/category-1/</loc>
+      <loc>https://yikklab.github.io/categories/category-1/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/category-2/</loc>
+      <loc>https://yikklab.github.io/categories/category-2/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/</loc>
+      <loc>https://yikklab.github.io/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/</loc>
+      <loc>https://yikklab.github.io/post/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/2021mp/2021mp/</loc>
+      <loc>https://yikklab.github.io/post/2021mp/2021mp/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/basic-elements/</loc>
+      <loc>https://yikklab.github.io/tags/basic-elements/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/test/basic-elements/</loc>
+      <loc>https://yikklab.github.io/post/test/basic-elements/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/css/</loc>
+      <loc>https://yikklab.github.io/tags/css/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/development/</loc>
+      <loc>https://yikklab.github.io/categories/development/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/html/</loc>
+      <loc>https://yikklab.github.io/tags/html/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/</loc>
+      <loc>https://yikklab.github.io/tags/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     </urlset>
