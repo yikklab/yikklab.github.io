@@ -1,6 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
+      <loc>https://yikklab.github.io/gallery/2020summer/gallery/</loc>
+    </url>
+    
+    <url>
+      <loc>https://yikklab.github.io/alumni/kekeyi/</loc>
+    </url>
+    
+    <url>
       <loc>https://yikklab.github.io/member/kekeyi/</loc>
     </url>
     
@@ -50,6 +58,14 @@
     <url>
       <loc>https://yikklab.github.io/post/test/basic-elements/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://yikklab.github.io/alumni/</loc>
+    </url>
+    
+    <url>
+      <loc>https://yikklab.github.io/gallery/</loc>
     </url>
     
     <url>
