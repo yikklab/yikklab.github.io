@@ -2,19 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery on YiLab</title>
-    <link>https://yikklab.github.io/gallery/</link>
+    <link>https://yilab.life/gallery/</link>
     <description>Recent content in Gallery on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://yikklab.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://yilab.life/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2020 Summer</title>
-      <link>https://yikklab.github.io/gallery/2020summer/gallery/</link>
+      <title>Congratulations - 2018.06</title>
+      <link>https://yilab.life/gallery/2018summer/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/gallery/2020summer/gallery/</guid>
-      <description>    Test1
-      Test2
-                                </description>
+      <guid>https://yilab.life/gallery/2018summer/gallery/</guid>
+      <description>                                  </description>
     </item>
     
   </channel>

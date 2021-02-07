@@ -2,104 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on YiLab</title>
-    <link>https://yikklab.github.io/</link>
+    <link>https://yilab.life/</link>
     <description>Recent content in Home on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yikklab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2020 Summer</title>
-      <link>https://yikklab.github.io/gallery/2020summer/gallery/</link>
+      <title>Congratulations - 2018.06</title>
+      <link>https://yilab.life/gallery/2018summer/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/gallery/2020summer/gallery/</guid>
-      <description>    Test1
-      Test2
-                                </description>
+      <guid>https://yilab.life/gallery/2018summer/gallery/</guid>
+      <description>                                  </description>
     </item>
     
     <item>
       <title>Prof. Keke Yi</title>
-      <link>https://yikklab.github.io/alumni/kekeyi/</link>
+      <link>https://yilab.life/member/kekeyi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/alumni/kekeyi/</guid>
-      <description>I’m a group leader of soil-plant interaction at the Institute of Agricultural Resources and Regional Planning (IARRP) from the Chinese Academy of Agricultural Sciences (CAAS). My group is working with the molecular mechanism of Pi uptake and homeostasis in plants. We are also interested with how the plants sense the external nutrition availability to modulate growth.
-  Research Interests:  Function and Evolution of Phosphate Transporter
-Plant nutritions
-Cell and Develpment Biology</description>
-    </item>
-    
-    <item>
-      <title>Prof. Keke Yi</title>
-      <link>https://yikklab.github.io/member/kekeyi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yikklab.github.io/member/kekeyi/</guid>
+      <guid>https://yilab.life/member/kekeyi/</guid>
       <description>I’m a group leader of soil-plant interaction at the Institute of Agricultural Resources and Regional Planning (IARRP) from the Chinese Academy of Agricultural Sciences (CAAS). My group is working with the molecular mechanism of Pi uptake and homeostasis in plants.</description>
     </item>
     
     <item>
       <title>Dr. Wenyuan Ruan</title>
-      <link>https://yikklab.github.io/member/wenyuanruan/</link>
+      <link>https://yilab.life/member/wenyuanruan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/wenyuanruan/</guid>
+      <guid>https://yilab.life/member/wenyuanruan/</guid>
       <description>                                   Research Interests:  Crop Science Mineral nutrition associated shoot architecture and crop yields Mechanisms of mineral nutrition sensing, uptake, translocation, and utilization Crosstalk of mineral nutrition signaling and homeostasis   Education:  2011-2014, PhD in Biochemistry and molecular biology, Zhejiang University 2008-2011, MS in Plant Science, Jilin University 2004-2008, BS in Biological Engineering, Hebei University of Science and Technology   Contact:  Email: ORCID:   </description>
     </item>
     
     <item>
       <title>Dr. Lei Xu</title>
-      <link>https://yikklab.github.io/member/leixu/</link>
+      <link>https://yilab.life/member/leixu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/leixu/</guid>
+      <guid>https://yilab.life/member/leixu/</guid>
       <description>                                   Research Interests:  Regulation mechanisms of root meristem activety in rice Uptake and transport of phosphate   Education:  PhD in Biology, Zhejiang University   Contact:  Email: xuleisy@zju.edu.cn ORCID:   </description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://yikklab.github.io/publication/</link>
+      <link>https://yilab.life/publication/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/publication/</guid>
+      <guid>https://yilab.life/publication/</guid>
       <description>2021  Zhang, P., Zhu, C., Geng, Y., Wang, Y., Yang, Y., Liu, Q., Guo, W., Chachar, S., Riaz, A., Yan, S., Yang, L., Yi, K.*, Wu, C.*, &amp;amp; Gu, X.* (2021). Rice and Arabidopsis homologs of yeast CHROMOSOME TRANSMISSION FIDELITY PROTEIN 4 commonly interact with Polycomb complexes but exert divergent regulatory functions. The Plant Cell, koab047. [Link]
 Wang, L., Jia, X., Zhang, Y., Xu, L., Menand, B., Zhao, H.</description>
     </item>
     
     <item>
       <title>Dr. Meina Guo</title>
-      <link>https://yikklab.github.io/member/meinaguo/</link>
+      <link>https://yilab.life/member/meinaguo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/meinaguo/</guid>
+      <guid>https://yilab.life/member/meinaguo/</guid>
       <description>                                   Research Interests:  Crop Science Phosphate associated shoot architecture and crop yields Mechanisms of phosphate uptake, translocation, and utilization   Education:  2012-2015, PhD in Biology, Zhejiang University 2009-2012, MS in Plant Science, Jilin University 2005-2009, BS in Plant Science, Inner Mongolia University for the Nationalities   Contact:  Email: ORCID:   </description>
     </item>
     
     <item>
       <title>Dr. Hongyu Zhao</title>
-      <link>https://yikklab.github.io/member/hongyuzhao/</link>
+      <link>https://yilab.life/member/hongyuzhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/hongyuzhao/</guid>
+      <guid>https://yilab.life/member/hongyuzhao/</guid>
       <description>                                   Research Interests:  Evo-Devo` Molecular Genetics and Evolution` Bioinformatics` Multi-omics analysis`   Education:  PhD in Biology, Zhejiang University   Contact:  Email: ORCID:   </description>
     </item>
     
     <item>
       <title>Dr. Long Wang</title>
-      <link>https://yikklab.github.io/member/longwang/</link>
+      <link>https://yilab.life/member/longwang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/longwang/</guid>
+      <guid>https://yilab.life/member/longwang/</guid>
       <description>Phosphorus is an essential plant nutrient, which participates in all metabolic processes in plants. Due to the easy fixation by soil, nearly 70% of global arable land suffers from Pi deficiency. Thus, farmers have to apply more phosphate fertilizer to guarantee the plant growth and crop yield, which in turn also causes severe eutrophication.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://yikklab.github.io/contact/</link>
+      <title>Dr. Xianqing Jia</title>
+      <link>https://yilab.life/member/xianqingjia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/contact/</guid>
+      <guid>https://yilab.life/member/xianqingjia/</guid>
+      <description>Xianqing finished his PhD study at Nanjing University and joined our lab in June 2020. He has board interest in evolution of genomic features accompanied by morphologic changes in plants.
+ Research Interests:  Evo-Devo Molecular Genetics and Evolution Bioinformatics Multi-omics analysis   Education:  2017.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://yilab.life/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/events/</guid>
+      <description>Updated: 2021-02-07
+ Journal Club  Date: 2021-02-02
+Presenter: Keke Yi
+Reference:
+Mazeed, Mohd, Raghvendra Singh, Pradeep Kumar, Ankit Roy, Bakthisaran Raman, Shobha P. Kruparani, and Rajan Sankaranarayanan
+Recruitment of Archaeal DTD Is a Key Event toward the Emergence of Land Plants.
+Science Advances 7, no. 6 (February 1, 2021): eabe8890. https://doi.org/10.1126/sciadv.abe8890.
+ </description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://yilab.life/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/</guid>
+      <description>Updated: 2021-02-07
+ Affiliation  Institute of Agricultural Resources and Regional Planning (IARRP) Chinese Academy of Agricultural Sciences (CAAS)   Database Genomics  PLAZA Phytozome The Rice Annotation Project (RAP) Rice Genome Annotation Project  Expression  Rice Expression Profile Database (RiceXPro) Rice Expression Database (RED) OryzaExpress  Gene function  Oryzabase - for rice funRiceGenes - for rice   Tools RNA-seq  agriGOv2 - GO analysis g:Profiler - GO analysis   Relevant Journals  Cell Nature Science   </description>
+    </item>
+    
+    <item>
+      <title>Xueqing Wang</title>
+      <link>https://yilab.life/member/xueqingwang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/member/xueqingwang/</guid>
+      <description>Research Interests:  Plant Nutrition Phosphate homeostasis in plants   Education:  2018 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science 2015-2018, MSc in Plant Nutrition, Zhejiang Normal University 2011-2015, BS in Agricultural Resources and environment, Shandong Agricultural University   Contact:  Email: wangxueqing2011@163.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://yilab.life/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/contact/</guid>
       <description>Keke Yi&amp;rsquo;s Lab Institute of Agricultural Resources and Regional Planning (IARRP),
 Chinese Academy of Agricultural Sciences (CAAS)
 Address: 12 Zhongguancun Nandajie Street, Haidian District, Beijing, 010, China
@@ -107,95 +138,85 @@ Telephone: +86 010-82108643</description>
     </item>
     
     <item>
-      <title>Dr. Xianqing Jia</title>
-      <link>https://yikklab.github.io/member/xianqingjia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yikklab.github.io/member/xianqingjia/</guid>
-      <description>Xianqing finished his PhD study at Nanjing University and joined our lab in June 2020. He has board interest in evolution of genomic features accompanied by morphologic changes in plants.
- Research Interests:  Evo-Devo Molecular Genetics and Evolution Bioinformatics Multi-omics analysis   Education:  2017.</description>
-    </item>
-    
-    <item>
-      <title>Xueqing Wang</title>
-      <link>https://yikklab.github.io/member/xueqingwang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yikklab.github.io/member/xueqingwang/</guid>
-      <description>Research Interests:  Plant Nutrition Phosphate homeostasis in plants   Education:  2018 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science 2015-2018, MSc in Plant Nutrition, Zhejiang Normal University 2011-2015, BS in Agricultural Resources and environment, Shandong Agricultural University   Contact:  Email: wangxueqing2011@163.</description>
-    </item>
-    
-    <item>
       <title>Yibo Zhang</title>
-      <link>https://yikklab.github.io/member/yibozhang/</link>
+      <link>https://yilab.life/member/yibozhang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/yibozhang/</guid>
+      <guid>https://yilab.life/member/yibozhang/</guid>
       <description>Research Interests:  Calmodulin Green manure Regulation of phosphate homeostasis   Education:  2019 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science 2015-2018, MSc in Agricultural Resources and environment, Henan Agricultural University   Contact:  Email: utopiazhangyb@163.</description>
     </item>
     
     <item>
       <title>Zhuang Xu</title>
-      <link>https://yikklab.github.io/member/zhuangxu/</link>
+      <link>https://yilab.life/alumni/zhuangxu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/zhuangxu/</guid>
+      <guid>https://yilab.life/alumni/zhuangxu/</guid>
+      <description>Research Interests:  Cell and Develpment Biology Phosphate utilization and hemostasis in rice Microbiome, colonization of the root microbiome   Education:  2020 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science MSc in Biochemistry and Molecular Biology, Zhejiang Normal University BE in Bioengineering,HuaZhong Agricultural University   Contact:  Email: 631083028@qq.</description>
+    </item>
+    
+    <item>
+      <title>Zhuang Xu</title>
+      <link>https://yilab.life/member/zhuangxu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/member/zhuangxu/</guid>
       <description>Research Interests:  Cell and Develpment Biology Phosphate utilization and hemostasis in rice Microbiome, colonization of the root microbiome   Education:  2020 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science MSc in Biochemistry and Molecular Biology, Zhejiang Normal University BE in Bioengineering,HuaZhong Agricultural University   Contact:  Email: 631083028@qq.</description>
     </item>
     
     <item>
       <title>Jiahong Yu</title>
-      <link>https://yikklab.github.io/member/jiahongyu/</link>
+      <link>https://yilab.life/member/jiahongyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/jiahongyu/</guid>
+      <guid>https://yilab.life/member/jiahongyu/</guid>
       <description>Research Interests:  Nutrition utilization in vegetables   Education:  2020 - Present, PhD in Agricultural Resources and Environment, Nanjing Agricultural University MSc in Biology, Zhejiang Normal University BSa in Horticultural, South China Agricultural University   Contact:  Email: 809394701@qq.</description>
     </item>
     
     <item>
       <title>Yili Zhu</title>
-      <link>https://yikklab.github.io/member/yilizhu/</link>
+      <link>https://yilab.life/member/yilizhu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/yilizhu/</guid>
+      <guid>https://yilab.life/member/yilizhu/</guid>
       <description>Research Interests:  Cell Biology Molecular Biology Plant Physiology Absorption And Transport Of Phosphorus Rice Root Development   Education:  2018.09 - Present, MSc in Biological Sciences, Zhejiang Normal University   Contact:  Email: 1057851601@qq.</description>
     </item>
     
     <item>
       <title>Jichun Wang</title>
-      <link>https://yikklab.github.io/member/jichunwang/</link>
+      <link>https://yilab.life/member/jichunwang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/jichunwang/</guid>
+      <guid>https://yilab.life/member/jichunwang/</guid>
       <description>The Chinese Academy of Agricultural Sciences and Zhejiang Normal University jointly trained graduate students
  Research Interests:  Molecular Biology   Education:  2019 - Present, MSc in Biological Sciences, Zhejiang Normal University   Contact:  Email: ertun930@163.</description>
     </item>
     
     <item>
       <title>Yuxin Zhang</title>
-      <link>https://yikklab.github.io/member/yuxinzhang/</link>
+      <link>https://yilab.life/member/yuxinzhang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/member/yuxinzhang/</guid>
+      <guid>https://yilab.life/member/yuxinzhang/</guid>
       <description>YUXIN ZHANG, a graduate student from Chinese Academy of Agricultural Science, majors in Molecular Biology and Plant Physiology, researching in the signaling pathways of phosphorus in rice.
  Research Interests:  Cell Biology Molecular Biology Plant Physiology signaling pathways of phosphorus   Education:  2019 - Present, MSc in Plant Nutrition, Chinese Academy of Agricultural Science 2014 - 2018, BS in Pratacultural Science, Beijing Forestry University   Contact:  Email: zhangyuxin1402@qq.</description>
     </item>
     
     <item>
       <title>The Plant Cell paper is online now!</title>
-      <link>https://yikklab.github.io/post/2021tpc/detail/</link>
+      <link>https://yilab.life/post/2021tpc/detail/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/post/2021tpc/detail/</guid>
+      <guid>https://yilab.life/post/2021tpc/detail/</guid>
       <description>Both genetic and epigenetic information must be transferred from mother to daughter cells during cell division. The mechanisms through which information about chromatin states and epigenetic marks like histone 3 lysine 27 trimethylation (H3K27me3) are transferred have been characterized in animals; these processes are less well understood in plants. Here, based on characterization of a dwarf rice (Oryza sativa) mutant (dwarf-related wd40 protein 1, drw1) deficient for yeast CTF4 (CHROMOSOME TRANSMISSION FIDELITY PROTEIN 4), we discovered that CTF4 orthologs in plants use common cellular machinery yet accomplish divergent functional outcomes.</description>
     </item>
     
     <item>
       <title>Our MP paper is online now!</title>
-      <link>https://yikklab.github.io/post/2021mp/detail/</link>
+      <link>https://yilab.life/post/2021mp/detail/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yikklab.github.io/post/2021mp/detail/</guid>
+      <guid>https://yilab.life/post/2021mp/detail/</guid>
       <description>Phosphorus is an essential nutrient for plants. It is stored as inorganic phosphate (Pi) in vacuoles of land plants but as inorganic polyphosphate (polyP) in chlorophyte algae. Although it has been known that the SPX-MFS and VPE proteins are respectively responsible for Pi influx and efflux across the tonoplast in land plants, the mechanisms underlying polyP homeostasis and the transition of phosphorus storage forms during the evolution of green plants remain unclear.</description>
     </item>
     
