@@ -17,12 +17,12 @@
     </url>
     
     <url>
-      <loc>https://yikklab.github.io/publication/</loc>
-      <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+      <loc>https://yikklab.github.io/member/leixu/</loc>
     </url>
     
     <url>
-      <loc>https://yikklab.github.io/member/leixu/</loc>
+      <loc>https://yikklab.github.io/publication/</loc>
+      <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     </url>
     
     <url>
@@ -79,7 +79,7 @@
     </url>
     
     <url>
-      <loc>https://yikklab.github.io/categories/cell-cycle/</loc>
+      <loc>https://yikklab.github.io/tags/cell-cycle/</loc>
       <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -89,7 +89,7 @@
     </url>
     
     <url>
-      <loc>https://yikklab.github.io/categories/methylation/</loc>
+      <loc>https://yikklab.github.io/tags/methylation/</loc>
       <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -99,12 +99,22 @@
     </url>
     
     <url>
+      <loc>https://yikklab.github.io/categories/papers/</loc>
+      <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://yikklab.github.io/tags/</loc>
+      <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
       <loc>https://yikklab.github.io/post/2021tpc/detail/</loc>
       <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://yikklab.github.io/categories/evo-devo/</loc>
+      <loc>https://yikklab.github.io/tags/evo-devo/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     </url>
     
@@ -114,7 +124,7 @@
     </url>
     
     <url>
-      <loc>https://yikklab.github.io/categories/phosphorus/</loc>
+      <loc>https://yikklab.github.io/tags/phosphorus/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
     </url>
     
@@ -128,9 +138,5 @@
     
     <url>
       <loc>https://yikklab.github.io/member/</loc>
-    </url>
-    
-    <url>
-      <loc>https://yikklab.github.io/tags/</loc>
     </url>
     </urlset>
