@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on YiLab</title>
+    <link>https://yilab.life/links/</link>
+    <description>Recent content in Links on YiLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://yilab.life/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database</title>
+      <link>https://yilab.life/links/database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/database/</guid>
+      <description>Genomics   PLAZA
+  Phytozome
+  ONEKP
+  Ensembl Plants
+  Genome Database for Angiosperms (GDA)
+  Fernbase
+  Phylogeny among flowering plants with published sequenced genomes
+  Expression   Rice Expression Profile Database (RiceXPro)
+  Rice Expression Database (RED)
+  OryzaExpress
+  Gene function   The Arabidopsis Information Resource (TAIR)
+  The Rice Annotation Project (RAP)</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://yilab.life/links/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/tools/</guid>
+      <description>RNA-seq  agriGOv2 - GO analysis g:Profiler - GO analysis   </description>
+    </item>
+    
+    <item>
+      <title>Relevant Journals</title>
+      <link>https://yilab.life/links/journals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/journals/</guid>
+      <description>Research Journals   Cell
+  Cell Reports
+  Cell Systems
+  Current Biology
+  Developmental Cell
+  Molecular Cell
+  Molecular Plant
+  Nature
+  Nature Cell Biology
+  Nature Biotechnology
+  Nature Plants
+  Nature Genetics
+  Nature Ecology &amp;amp; Evolution
+  Nature Microbiology
+  Nature Chemical Biology
+  Science
+  Science Advances</description>
+    </item>
+    
+    <item>
+      <title>Protocols</title>
+      <link>https://yilab.life/links/protocols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/protocols/</guid>
+      <description>RNA-seq  agriGOv2 - GO analysis g:Profiler - GO analysis   </description>
+    </item>
+    
+  </channel>
+</rss>
