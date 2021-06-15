@@ -8,12 +8,13 @@
     <language>en</language>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Congratulations - 2018.06</title>
-      <link>https://yilab.life/gallery/2018summer/gallery/</link>
+      <title>Congratulations - 2021.05</title>
+      <link>https://yilab.life/gallery/2021summer/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yilab.life/gallery/2018summer/gallery/</guid>
-      <description>                                  </description>
+      <guid>https://yilab.life/gallery/2021summer/gallery/</guid>
+      <description>Really enjoy the time we spent together. Hope you have a bright future!
+                                     </description>
     </item>
     
     <item>
@@ -22,18 +23,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/links/database/</guid>
-      <description>Genomics   PLAZA
-  Phytozome
-  ONEKP
-  Ensembl Plants
-  Genome Database for Angiosperms (GDA)
-  Fernbase
-  Phylogeny among flowering plants with published sequenced genomes
-  Expression   Rice Expression Profile Database (RiceXPro)
-  Rice Expression Database (RED)
-  OryzaExpress
-  Gene function   The Arabidopsis Information Resource (TAIR)
-  The Rice Annotation Project (RAP)</description>
+      <description>Genomics  PLAZA Phytozome ONEKP Ensembl Plants Genome Database for Angiosperms (GDA) Fernbase Phylogeny among flowering plants with published sequenced genomes  Expression  Rice Expression Profile Database (RiceXPro) Rice Expression Database (RED) OryzaExpress  Gene function  The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice  Nature function  RiceVarMap v2.0 GWAS Atlas ECOGEMS IC4R | Rice Variation Database   </description>
     </item>
     
     <item>
@@ -43,6 +33,15 @@
       
       <guid>https://yilab.life/member/kekeyi/</guid>
       <description>I’m a group leader of soil-plant interaction at the Institute of Agricultural Resources and Regional Planning (IARRP) from the Chinese Academy of Agricultural Sciences (CAAS). My group is working with the molecular mechanism of Pi uptake and homeostasis in plants.</description>
+    </item>
+    
+    <item>
+      <title>Congratulations - 2018.06</title>
+      <link>https://yilab.life/gallery/2018summer/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/gallery/2018summer/gallery/</guid>
+      <description>                                  </description>
     </item>
     
     <item>
@@ -100,11 +99,11 @@
     <item>
       <title>Publications</title>
       <link>https://yilab.life/publication/</link>
-      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/publication/</guid>
-      <description>2021  Zhang, P., Zhu, C., Geng, Y., Wang, Y., Yang, Y., Liu, Q., Guo, W., Chachar, S., Riaz, A., Yan, S., Yang, L., Yi, K.*, Wu, C.*, &amp;amp; Gu, X.* (2021). Rice and Arabidopsis homologs of yeast CHROMOSOME TRANSMISSION FIDELITY PROTEIN 4 commonly interact with Polycomb complexes but exert divergent regulatory functions. The Plant Cell, koab047. [Link]
-Wang, L., Jia, X., Zhang, Y., Xu, L., Menand, B., Zhao, H.</description>
+      <description>2021  Xu, L., &amp;amp; Yi, K.* (2021). Unloading phosphate for starch synthesis in cereal grains. Molecular Plant, 0(0). [Link]
+Zhang, P., Zhu, C., Geng, Y., Wang, Y., Yang, Y., Liu, Q., Guo, W., Chachar, S., Riaz, A., Yan, S., Yang, L., Yi, K.*, Wu, C.*, &amp;amp; Gu, X.* (2021). Rice and Arabidopsis homologs of yeast CHROMOSOME TRANSMISSION FIDELITY PROTEIN 4 commonly interact with Polycomb complexes but exert divergent regulatory functions.</description>
     </item>
     
     <item>
@@ -202,15 +201,6 @@ Email: yikeke@gmail.com</description>
     
     <item>
       <title>Zhuang Xu</title>
-      <link>https://yilab.life/alumni/zhuangxu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yilab.life/alumni/zhuangxu/</guid>
-      <description>Research Interests:  Cell and Develpment Biology Phosphate utilization and hemostasis in rice Microbiome, colonization of the root microbiome   Education:  2020 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science MSc in Biochemistry and Molecular Biology, Zhejiang Normal University BE in Bioengineering, HuaZhong Agricultural University   Contact:  Email: 631083028@qq.</description>
-    </item>
-    
-    <item>
-      <title>Zhuang Xu</title>
       <link>https://yilab.life/member/zhuangxu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -229,10 +219,10 @@ Email: yikeke@gmail.com</description>
     
     <item>
       <title>Yili Zhu</title>
-      <link>https://yilab.life/member/yilizhu/</link>
+      <link>https://yilab.life/alumni/yilizhu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yilab.life/member/yilizhu/</guid>
+      <guid>https://yilab.life/alumni/yilizhu/</guid>
       <description>Research Interests:  Cell Biology Molecular Biology Plant Physiology Absorption And Transport Of Phosphorus Rice Root Development   Education:  2018.09 - Present, MSc in Biological Sciences, Zhejiang Normal University   Contact:  Email: 1057851601@qq.</description>
     </item>
     
