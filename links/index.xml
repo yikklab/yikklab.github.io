@@ -5,57 +5,48 @@
     <link>https://yilab.life/links/</link>
     <description>Recent content in Links on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://yilab.life/links/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relevant Journals</title>
+      <link>https://yilab.life/links/journals/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/journals/</guid>
+      <description>Research Journals Multidisciplinary
+ Cell Cell Reports Current Biology Developmental Cell Molecular Cell Nature Nature Biotechnology Nature Genetics Nature Communications Communications Biology Science Science Advances PNAS PLOS Biology BMC Biology Advanced Science eLife The EMBO Journal EMBO Reports Cold Spring Harbor Perspectives in Biology Science Bulletin  Plants
+ Nature Plants Molecular Plant The Plant Cell New Phytologist Plant Physiology The Plant Journal Plant, Cell &amp;amp; Environment Journal of Experimental Botany Journal of Integrative Plant Biology Plant Biotechnology Journal  Evolution and Ecology</description>
+    </item>
+    
     <item>
       <title>Database</title>
       <link>https://yilab.life/links/database/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/links/database/</guid>
-      <description>Genomics  PLAZA Phytozome ONEKP Ensembl Plants Genome Database for Angiosperms (GDA) Fernbase Phylogeny among flowering plants with published sequenced genomes  Expression  Rice Expression Profile Database (RiceXPro) Rice Expression Database (RED) OryzaExpress  Gene function  The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice  Nature function  RiceVarMap v2.0 GWAS Atlas ECOGEMS IC4R | Rice Variation Database   </description>
+      <description>* for recommended
+ Genome  PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for Angiosperms Fernbase Published Plant Genomes GreenPhylDB v5 MaizeGDB - for maize MarpolBase - Genome Database for Marchantia polymorpha - for Marchantia Marchantia - for Marchantia CuGenDB - Cucurbit Genomics Database - for cucurbit crops CucCAP – Harnessing genomic resources in cucurbit crops - for cucurbit crops Sol Genomics Network - for Solanaceae   Expression  BAR* CoNekT* CoNekT - diurnal-tools Rice Expression Profile Database (RiceXPro) - for rice Rice Expression Database (RED) - for rice OryzaExpress - for rice   Gene function  The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice   Nature variation Rice</description>
     </item>
     
     <item>
       <title>Tools</title>
       <link>https://yilab.life/links/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/links/tools/</guid>
-      <description>RNA-seq  agriGOv2 - GO analysis g:Profiler - GO analysis   </description>
-    </item>
-    
-    <item>
-      <title>Relevant Journals</title>
-      <link>https://yilab.life/links/journals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yilab.life/links/journals/</guid>
-      <description>Research Journals   Cell
-  Cell Reports
-  Cell Systems
-  Current Biology
-  Developmental Cell
-  Molecular Cell
-  Molecular Plant
-  Nature
-  Nature Cell Biology
-  Nature Biotechnology
-  Nature Plants
-  Nature Genetics
-  Nature Ecology &amp;amp; Evolution
-  Nature Microbiology
-  Nature Chemical Biology
-  Science
-  Science Advances</description>
+      <description>GO analysis  agriGOv2 g:Profiler QuickGO REVIGO  KEGG analysis  KOBAS Pathview  Promoter analysis  New PLACE PlantPAN 3.0 PlantCARE  Subcellular localization Prediction   PSI-predictor
+  STRING - Protein-Protein Interaction Networks
+  STITCH - Chemical-Protein Interaction Networks
+  Plot  GSDS2.0 - gene structure  </description>
     </item>
     
     <item>
       <title>Protocols</title>
       <link>https://yilab.life/links/protocols/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/links/protocols/</guid>
-      <description>RNA-seq  agriGOv2 - GO analysis g:Profiler - GO analysis   </description>
+      <description>GO analysis  agriGOv2 - GO analysis g:Profiler - GO analysis   </description>
     </item>
     
   </channel>

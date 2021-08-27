@@ -6,7 +6,18 @@
     <description>Recent content in Home on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relevant Journals</title>
+      <link>https://yilab.life/links/journals/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/journals/</guid>
+      <description>Research Journals Multidisciplinary
+ Cell Cell Reports Current Biology Developmental Cell Molecular Cell Nature Nature Biotechnology Nature Genetics Nature Communications Communications Biology Science Science Advances PNAS PLOS Biology BMC Biology Advanced Science eLife The EMBO Journal EMBO Reports Cold Spring Harbor Perspectives in Biology Science Bulletin  Plants
+ Nature Plants Molecular Plant The Plant Cell New Phytologist Plant Physiology The Plant Journal Plant, Cell &amp;amp; Environment Journal of Experimental Botany Journal of Integrative Plant Biology Plant Biotechnology Journal  Evolution and Ecology</description>
+    </item>
+    
     <item>
       <title>Congratulations - 2021.05</title>
       <link>https://yilab.life/gallery/2021summer/gallery/</link>
@@ -18,21 +29,22 @@
     </item>
     
     <item>
-      <title>Database</title>
-      <link>https://yilab.life/links/database/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yilab.life/links/database/</guid>
-      <description>Genomics  PLAZA Phytozome ONEKP Ensembl Plants Genome Database for Angiosperms (GDA) Fernbase Phylogeny among flowering plants with published sequenced genomes  Expression  Rice Expression Profile Database (RiceXPro) Rice Expression Database (RED) OryzaExpress  Gene function  The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice  Nature function  RiceVarMap v2.0 GWAS Atlas ECOGEMS IC4R | Rice Variation Database   </description>
-    </item>
-    
-    <item>
       <title>Prof. Keke Yi</title>
       <link>https://yilab.life/member/kekeyi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/member/kekeyi/</guid>
       <description>I’m a group leader of soil-plant interaction at the Institute of Agricultural Resources and Regional Planning (IARRP) from the Chinese Academy of Agricultural Sciences (CAAS). My group is working with the molecular mechanism of Pi uptake and homeostasis in plants.</description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://yilab.life/links/database/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/database/</guid>
+      <description>* for recommended
+ Genome  PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for Angiosperms Fernbase Published Plant Genomes GreenPhylDB v5 MaizeGDB - for maize MarpolBase - Genome Database for Marchantia polymorpha - for Marchantia Marchantia - for Marchantia CuGenDB - Cucurbit Genomics Database - for cucurbit crops CucCAP – Harnessing genomic resources in cucurbit crops - for cucurbit crops Sol Genomics Network - for Solanaceae   Expression  BAR* CoNekT* CoNekT - diurnal-tools Rice Expression Profile Database (RiceXPro) - for rice Rice Expression Database (RED) - for rice OryzaExpress - for rice   Gene function  The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice   Nature variation Rice</description>
     </item>
     
     <item>
@@ -56,10 +68,13 @@
     <item>
       <title>Tools</title>
       <link>https://yilab.life/links/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/links/tools/</guid>
-      <description>RNA-seq  agriGOv2 - GO analysis g:Profiler - GO analysis   </description>
+      <description>GO analysis  agriGOv2 g:Profiler QuickGO REVIGO  KEGG analysis  KOBAS Pathview  Promoter analysis  New PLACE PlantPAN 3.0 PlantCARE  Subcellular localization Prediction   PSI-predictor
+  STRING - Protein-Protein Interaction Networks
+  STITCH - Chemical-Protein Interaction Networks
+  Plot  GSDS2.0 - gene structure  </description>
     </item>
     
     <item>
@@ -72,28 +87,12 @@
     </item>
     
     <item>
-      <title>Relevant Journals</title>
-      <link>https://yilab.life/links/journals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Protocols</title>
+      <link>https://yilab.life/links/protocols/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yilab.life/links/journals/</guid>
-      <description>Research Journals   Cell
-  Cell Reports
-  Cell Systems
-  Current Biology
-  Developmental Cell
-  Molecular Cell
-  Molecular Plant
-  Nature
-  Nature Cell Biology
-  Nature Biotechnology
-  Nature Plants
-  Nature Genetics
-  Nature Ecology &amp;amp; Evolution
-  Nature Microbiology
-  Nature Chemical Biology
-  Science
-  Science Advances</description>
+      <guid>https://yilab.life/links/protocols/</guid>
+      <description>GO analysis  agriGOv2 - GO analysis g:Profiler - GO analysis   </description>
     </item>
     
     <item>
@@ -113,15 +112,6 @@ Zhang, P., Zhu, C., Geng, Y., Wang, Y., Yang, Y., Liu, Q., Guo, W., Chachar, S.,
       
       <guid>https://yilab.life/member/meinaguo/</guid>
       <description>                                   Research Interests:  Crop Science Phosphate associated shoot architecture and crop yields Mechanisms of phosphate uptake, translocation, and utilization   Education:  2012-2015, PhD in Biology, Zhejiang University 2009-2012, MS in Plant Science, Jilin University 2005-2009, BS in Plant Science, Inner Mongolia University for the Nationalities   Contact:  Email: ORCID:   </description>
-    </item>
-    
-    <item>
-      <title>Protocols</title>
-      <link>https://yilab.life/links/protocols/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yilab.life/links/protocols/</guid>
-      <description>RNA-seq  agriGOv2 - GO analysis g:Profiler - GO analysis   </description>
     </item>
     
     <item>
@@ -148,14 +138,15 @@ Zhang, P., Zhu, C., Geng, Y., Wang, Y., Yang, Y., Liu, Q., Guo, W., Chachar, S.,
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/events/</guid>
-      <description> Journal Club  Date: 2021-02-02
-Presenter: Keke Yi
+      <description>Journal Club Date: 2021-08-27
+Presenter: Yibo Zhang
 Reference:
-Mazeed, Mohd, Raghvendra Singh, Pradeep Kumar, Ankit Roy, Bakthisaran Raman, Shobha P. Kruparani, and Rajan Sankaranarayanan
-Recruitment of Archaeal DTD Is a Key Event toward the Emergence of Land Plants.
-Science Advances 7, no. 6 (February 1, 2021): eabe8890. https://doi.org/10.1126/sciadv.abe8890.
+Cheng, Mengzhu, Lihong Wang, Qing Zhou, Daiyin Chao, Shingo Nagawa, Ding He, Jiazhi Zhang, et al. Lanthanum(III) Triggers AtrbohD- and Jasmonic Acid-Dependent Systemic Endocytosis in Plants.
+Nature Communications 12, no. 1 (December 2021): 4327. https://doi.org/10.1038/s41467-021-24379-z.
 PDF
- </description>
+Presenter: Jichun Wang
+Reference:
+Song, Shiyong, Ying Chen, Lu Liu, Yanwen Wang, Shengjie Bao, Xuan Zhou, Zhi Wei Norman Teo, Chuanzao Mao, Yinbo Gan, and Hao Yu</description>
     </item>
     
     <item>
@@ -185,7 +176,7 @@ PDF
       <guid>https://yilab.life/contact/</guid>
       <description>Keke Yi&amp;rsquo;s Lab Institute of Agricultural Resources and Regional Planning (IARRP),
 Chinese Academy of Agricultural Sciences (CAAS)
-Address: 12 Zhongguancun Nandajie Street, Haidian District, Beijing, 010, China
+Address: 12 Zhongguancun Nandajie Street, Haidian District, Beijing, 100081, China
 Telephone: +86 010-82108643
 Email: yikeke@gmail.com</description>
     </item>
