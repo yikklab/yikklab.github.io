@@ -44,7 +44,7 @@
       
       <guid>https://yilab.life/links/database/</guid>
       <description>* for recommended
- Genome  PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for Angiosperms Fernbase Published Plant Genomes GreenPhylDB v5 MaizeGDB - for maize MarpolBase - Genome Database for Marchantia polymorpha - for Marchantia Marchantia - for Marchantia CuGenDB - Cucurbit Genomics Database - for cucurbit crops CucCAP – Harnessing genomic resources in cucurbit crops - for cucurbit crops Sol Genomics Network - for Solanaceae   Expression  BAR* CoNekT* CoNekT - diurnal-tools Rice Expression Profile Database (RiceXPro) - for rice Rice Expression Database (RED) - for rice OryzaExpress - for rice   Gene function  The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice   Nature variation Rice</description>
+ Genome  PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for Angiosperms Fernbase Published Plant Genomes GreenPhylDB v5 PGSB - Plant Genome and Systems Biology MaizeGDB - for maize MarpolBase - Genome Database for Marchantia polymorpha Marchantia - for Marchantia CuGenDB - Cucurbit Genomics Database CucCAP – Harnessing genomic resources in cucurbit crops Sol Genomics Network - for Solanaceae   Expression  BAR* CoNekT* CoNekT - diurnal-tools Rice Expression Profile Database (RiceXPro) - for rice Rice Expression Database (RED) - for rice OryzaExpress - for rice   Gene function  The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice   Nature variation - Rice  RiceVarMap v2.</description>
     </item>
     
     <item>
@@ -71,10 +71,7 @@
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/links/tools/</guid>
-      <description>GO analysis  agriGOv2 g:Profiler QuickGO REVIGO  KEGG analysis  KOBAS Pathview  Promoter analysis  New PLACE PlantPAN 3.0 PlantCARE  Subcellular localization Prediction   PSI-predictor
-  STRING - Protein-Protein Interaction Networks
-  STITCH - Chemical-Protein Interaction Networks
-  Plot  GSDS2.0 - gene structure  </description>
+      <description> GO analysis  agriGOv2 g:Profiler QuickGO REVIGO   KEGG analysis  KOBAS Pathview   Promoter analysis  New PLACE PlantPAN 3.0 PlantCARE   Subcellular localization Prediction  PSI-predictor   Plot  GSDS2.0 - Gene structure Diagrams - Flow chart Baidu Naotu - Flow chart MapChart - Map chart Evenn - Venn Diagrams ImageGP - Online plot   </description>
     </item>
     
     <item>
@@ -209,6 +206,15 @@ Email: yikeke@gmail.com</description>
     </item>
     
     <item>
+      <title>Ruili Li</title>
+      <link>https://yilab.life/member/ruilili/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/member/ruilili/</guid>
+      <description>Research Interests:  Mechanisms of phosphate uptake, transport and redistribution in plants   Education:  2021 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science MSc in Biochemistry and Molecular Biology, Zhejiang Normal University BE in Biological Science，Henan Institute of Science and Technology   Contact:  Email: 1748110531@qq.</description>
+    </item>
+    
+    <item>
       <title>Yili Zhu</title>
       <link>https://yilab.life/alumni/yilizhu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -238,16 +244,6 @@ Email: yikeke@gmail.com</description>
     </item>
     
     <item>
-      <title>Tian Zhou</title>
-      <link>https://yilab.life/member/tianzhou/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yilab.life/member/tianzhou/</guid>
-      <description>Tian Zhou, a graduate student from Chinese Academy of Agricultural Science, majors in Resource Utilization and Plant Protection, researching in the interaction between phosphorus and zinc in rice.
- Research Interests:  Molecular Biology Plant Physiology   Education:  2020 - Present, MSc in Resource Utilization and Plant Protection, Chinese Academy of Agricultural Science 2016 - 2020, B.</description>
-    </item>
-    
-    <item>
       <title>Junwen Shao</title>
       <link>https://yilab.life/member/junwenshao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -255,6 +251,16 @@ Email: yikeke@gmail.com</description>
       <guid>https://yilab.life/member/junwenshao/</guid>
       <description>The Chinese Academy of Agricultural Sciences and Zhejiang Normal University jointly trained graduate student
  Research Interests:  Molecular Biology   Education:  2020 - Present, MSc in Biological Sciences, Zhejiang Normal University 2016-2020, Bachelor of Biology Science, Huainan Normal University   Contact:  Email: shaojunwen412@163.</description>
+    </item>
+    
+    <item>
+      <title>Tian Zhou</title>
+      <link>https://yilab.life/member/tianzhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/member/tianzhou/</guid>
+      <description>Tian Zhou, a graduate student from Chinese Academy of Agricultural Science, majors in Resource Utilization and Plant Protection, researching in the interaction between phosphorus and zinc in rice.
+ Research Interests:  Molecular Biology Plant Physiology   Education:  2020 - Present, MSc in Resource Utilization and Plant Protection, Chinese Academy of Agricultural Science 2016 - 2020, B.</description>
     </item>
     
     <item>
