@@ -1,11 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://yilab.life/links/journals/</loc>
-      <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://yilab.life/gallery/2021summer/gallery/</loc>
     </url>
     
@@ -14,21 +9,11 @@
     </url>
     
     <url>
-      <loc>https://yilab.life/links/database/</loc>
-      <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://yilab.life/gallery/2018summer/gallery/</loc>
     </url>
     
     <url>
       <loc>https://yilab.life/member/wenyuanruan/</loc>
-    </url>
-    
-    <url>
-      <loc>https://yilab.life/links/tools/</loc>
-      <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     </url>
     
     <url>
@@ -159,11 +144,6 @@
     </url>
     
     <url>
-      <loc>https://yilab.life/links/</loc>
-      <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://yilab.life/post/2021mp2/detail/</loc>
       <lastmod>2021-06-11T00:00:00+00:00</lastmod>
     </url>
@@ -194,6 +174,10 @@
     
     <url>
       <loc>https://yilab.life/gallery/</loc>
+    </url>
+    
+    <url>
+      <loc>https://yilab.life/links/</loc>
     </url>
     
     <url>
