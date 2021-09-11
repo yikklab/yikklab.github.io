@@ -6,7 +6,18 @@
     <description>Recent content in Home on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relevant Journals</title>
+      <link>https://yilab.life/links/journals/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/journals/</guid>
+      <description>Research Journals Multidisciplinary
+ Cell Cell Reports Current Biology Developmental Cell Molecular Cell Nature Nature Biotechnology Nature Genetics Nature Communications Communications Biology Science Science Advances PNAS PLOS Biology BMC Biology Advanced Science eLife The EMBO Journal EMBO Reports Cold Spring Harbor Perspectives in Biology Science Bulletin  Plants
+ Nature Plants Molecular Plant The Plant Cell New Phytologist Plant Physiology The Plant Journal Plant, Cell &amp;amp; Environment Journal of Experimental Botany Journal of Integrative Plant Biology Plant Biotechnology Journal  Evolution and Ecology</description>
+    </item>
+    
     <item>
       <title>Congratulations - 2021.05</title>
       <link>https://yilab.life/gallery/2021summer/gallery/</link>
@@ -27,6 +38,16 @@
     </item>
     
     <item>
+      <title>Database</title>
+      <link>https://yilab.life/links/database/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/database/</guid>
+      <description>* for recommended
+ Genome  PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for Angiosperms Fernbase Published Plant Genomes GreenPhylDB v5 PGSB - Plant Genome and Systems Biology MaizeGDB - for maize MarpolBase - Genome Database for Marchantia polymorpha Marchantia - for Marchantia CuGenDB - Cucurbit Genomics Database CucCAP – Harnessing genomic resources in cucurbit crops Sol Genomics Network - for Solanaceae   Expression  BAR* CoNekT* CoNekT - diurnal-tools Rice Expression Profile Database (RiceXPro) - for rice Rice Expression Database (RED) - for rice OryzaExpress - for rice   Gene function  The Arabidopsis Information Resource (TAIR) The Rice Annotation Project (RAP) Rice Genome Annotation Project Oryzabase - for rice funRiceGenes - for rice   Nature variation - Rice  RiceVarMap v2.</description>
+    </item>
+    
+    <item>
       <title>Congratulations - 2018.06</title>
       <link>https://yilab.life/gallery/2018summer/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -42,6 +63,15 @@
       
       <guid>https://yilab.life/member/wenyuanruan/</guid>
       <description>                                   Research Interests:  Crop Science Mineral nutrition associated shoot architecture and crop yields Mechanisms of mineral nutrition sensing, uptake, translocation, and utilization Crosstalk of mineral nutrition signaling and homeostasis   Education:  2011-2014, PhD in Biochemistry and molecular biology, Zhejiang University 2008-2011, MS in Plant Science, Jilin University 2004-2008, BS in Biological Engineering, Hebei University of Science and Technology   Contact:  Email: ORCID:   </description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://yilab.life/links/tools/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/tools/</guid>
+      <description> GO analysis  agriGOv2 g:Profiler QuickGO REVIGO   KEGG analysis  KOBAS Pathview   Promoter analysis  New PLACE PlantPAN 3.0 PlantCARE   Subcellular localization Prediction  PSI-predictor   Plot  GSDS2.0 - Gene structure Diagrams - Flow chart Baidu Naotu - Flow chart MapChart - Map chart Evenn - Venn Diagrams ImageGP - Online plot   </description>
     </item>
     
     <item>
@@ -94,7 +124,7 @@ Zhang, P., Zhu, C., Geng, Y., Wang, Y., Yang, Y., Liu, Q., Guo, W., Chachar, S.,
     <item>
       <title>Events</title>
       <link>https://yilab.life/events/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/events/</guid>
       <description>Journal Club Date: 2021-08-27
