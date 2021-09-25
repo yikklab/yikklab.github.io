@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iron signaling on YiLab</title>
+    <link>https://yilab.life/tags/iron-signaling/</link>
+    <description>Recent content in Iron signaling on YiLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/tags/iron-signaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A reciprocal inhibitory interplay between phosphate and iron signaling in rice</title>
+      <link>https://yilab.life/post/2021mp3/detail/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/post/2021mp3/detail/</guid>
+      <description>Summary Phosphorous (P) and iron (Fe) are two essential nutrients for plant growth and development and are highly abundant elements in the earth&amp;rsquo;s crust but often display low availability to plants. Due to the ability to form insoluble complexes, the antagonistic interaction between P and Fe nutrition in plants has been noticed for decades. However, the underlying molecular mechanism modulating the signaling and homeostasis between them is still obscure. Here, we show that the possible iron sensors HRZs, iron deficiency induced E3 ligases, could interact with the central regulator for phosphate (Pi) signaling, PHR2, and prompt its ubiquitination at lysine residues K319 and K328, leading to its degradation in rice.</description>
+    </item>
+    
+  </channel>
+</rss>
