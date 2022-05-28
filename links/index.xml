@@ -6,7 +6,18 @@
     <description>Recent content in Links on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/links/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relevant Journals</title>
+      <link>https://yilab.life/links/journals/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/links/journals/</guid>
+      <description>Research Journals Multidisciplinary
+ Cell Cell Reports Current Biology Developmental Cell Molecular Cell Nature Nature Biotechnology Nature Genetics Nature Communications Communications Biology Science Science Advances PNAS PLOS Biology BMC Biology Advanced Science eLife The EMBO Journal EMBO Reports Cold Spring Harbor Perspectives in Biology Proceedings of the Royal Society B: Biological Sciences National Science Review Science Bulletin  Plants
+ Nature Plants Molecular Plant The Plant Cell New Phytologist Plant Physiology The Plant Journal Plant, Cell &amp;amp; Environment Journal of Experimental Botany Journal of Integrative Plant Biology Plant Biotechnology Journal Plant Communications  Genetics and Genomics</description>
+    </item>
+    
     <item>
       <title>Database</title>
       <link>https://yilab.life/links/database/</link>
@@ -24,16 +35,6 @@
       
       <guid>https://yilab.life/links/tools/</guid>
       <description>GO analysis  agriGOv2 g:Profiler QuickGO REVIGO   KEGG analysis  KOBAS Pathview   Promoter analysis  New PLACE PlantPAN 3.0 PlantCARE   Subcellular localization Prediction  PSI-predictor WoLF PSORT or WoLF PSORT iPSORT cNLS Mapper - Nuclear localization signals (NLSs) SignalP 5.0 - Signal peptide and cleavage sites ChloroP-1.1 - Chloroplast transit peptides and cleavage sites TargetP 2.0 - Mitochondrial, chloroplastic, secretory pathway   Plot  GSDS2.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yilab.life/links/journals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yilab.life/links/journals/</guid>
-      <description>title: &amp;ldquo;Relevant Journals&amp;rdquo; draft: false date: 2022-05-27 weight: 1 thumbnail: &amp;ldquo;img/link/kindle.png&amp;rdquo; # Thumbnail image thumbnail_hide_post: true # Hide thumbnail on single post view
-authorbox: false # Enable authorbox for specific page pager: false # Enable pager navigation (prev/next) for specific page toc: true # Enable Table of Contents for specific page sidebar: &amp;ldquo;right&amp;rdquo; # Enable sidebar (on the right side) per page sitemap_hide: false # Do not add this page to the sitemap sidebar: false  Research Journals Multidisciplinary</description>
     </item>
     
   </channel>

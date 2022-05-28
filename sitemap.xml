@@ -1,6 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
+      <loc>https://yilab.life/links/journals/</loc>
+      <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
       <loc>https://yilab.life/gallery/202112ncpb/gallery/</loc>
     </url>
     
@@ -162,6 +167,11 @@
     </url>
     
     <url>
+      <loc>https://yilab.life/links/</loc>
+      <lastmod>2022-05-27T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
       <loc>https://yilab.life/post/2021mp3/detail/</loc>
       <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     </url>
@@ -192,11 +202,6 @@
     </url>
     
     <url>
-      <loc>https://yilab.life/links/</loc>
-      <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://yilab.life/post/2021mp2/detail/</loc>
       <lastmod>2021-06-11T00:00:00+00:00</lastmod>
     </url>
@@ -219,10 +224,6 @@
     <url>
       <loc>https://yilab.life/post/2021mp/detail/</loc>
       <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://yilab.life/links/journals/</loc>
     </url>
     
     <url>
