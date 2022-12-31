@@ -6,7 +6,7 @@
     <description>Recent content in Home on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relevant Journals</title>
       <link>https://yilab.life/links/journals/</link>
@@ -67,11 +67,12 @@
     <item>
       <title>Publications</title>
       <link>https://yilab.life/publication/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/publication/</guid>
-      <description>2022    Jia, X., Wang, L., Zhao, H., Zhang, Y., Chen, Z., Xu, L.*, &amp;amp; Yi, K.* (2022). The origin and evolution of salicylic acid signaling and biosynthesis in plants. Molecular Plant, 0(0). [Link]
-  Zhang, K., Yang, Y., Zhang, X., Zhang, L., Fu, Y., Guo, Z., Chen, S., Wu, J., Schnable, J. C.*, Yi, K.*, Wang, X.*, &amp;amp; Cheng, F.* (2022). The genome of Orychophragmus violaceus provides genomic insights into the evolution of Brassicaceae polyploidization and its distinct traits.</description>
+      <description>2022    Jia, X., Wang, L., Nussaume, L., &amp;amp; Yi, K.* (2022). Cracking the code of plant central phosphate signaling. Trends in Plant Science, 0(0). [Link] [Data]
+  Jia, X., Wang, L., Zhao, H., Zhang, Y., Chen, Z., Xu, L.*, &amp;amp; Yi, K.* (2022). The origin and evolution of salicylic acid signaling and biosynthesis in plants. Molecular Plant, 0(0). [Link] [Data]
+  Zhang, K., Yang, Y.</description>
     </item>
     
     <item>
@@ -347,6 +348,17 @@ Email: yikeke@gmail.com</description>
       <guid>https://yilab.life/member/16_jianhaoren/</guid>
       <description>Jianhao Ren，a graduate student from Chinese Academy of Agriculture Science，majors in Plant Nutrition.
  Research Interests:  Plant Physiology   Education:  2022 - Present, MSc in Plant Nutrition, Chinese Academy of Agriculture Science 2018 - 2022, Bachelor of Resource and Environment Science, South China Agriculture University   Contact:  Email: 1371918092@qq.</description>
+    </item>
+    
+    <item>
+      <title>Cracking the code of plant central phosphate signaling</title>
+      <link>https://yilab.life/post/2022tips/detail/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/post/2022tips/detail/</guid>
+      <description>Abstract Phosphate (Pi) is involved in numerous metabolic processes and plays a vital role in plant growth. Green plants have evolved intricate molecular bases of Pi-signaling to maintain cellular Pi homeostasis. Here, we summarize recent advances in the molecular and structural bases of central Pi-signaling and discuss pending questions.
+Link: https://www.sciencedirect.com/science/article/pii/S1674205222004373
+Wechat promotion (In Chinese)</description>
     </item>
     
     <item>
