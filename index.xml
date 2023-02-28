@@ -6,7 +6,7 @@
     <description>Recent content in Home on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relevant Journals</title>
       <link>https://yilab.life/links/journals/</link>
@@ -67,21 +67,11 @@
     <item>
       <title>Publications</title>
       <link>https://yilab.life/publication/</link>
-      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/publication/</guid>
-      <description>2022    Jia, X., Wang, L., Nussaume, L., &amp;amp; Yi, K.* (2022). Cracking the code of plant central phosphate signaling. Trends in Plant Science, 0(0). [Link] [Data]
-  Jia, X., Wang, L., Zhao, H., Zhang, Y., Chen, Z., Xu, L.*, &amp;amp; Yi, K.* (2022). The origin and evolution of salicylic acid signaling and biosynthesis in plants. Molecular Plant, 0(0). [Link] [Data]
-  Zhang, K., Yang, Y.</description>
-    </item>
-    
-    <item>
-      <title>Dr. Hongyu Zhao</title>
-      <link>https://yilab.life/member/03_hongyuzhao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yilab.life/member/03_hongyuzhao/</guid>
-      <description>                                   Research Interests:  Evo-Devo Molecular Genetics and Evolution Bioinformatics Multi-omics analysis   Education:  PhD in Biology, Zhejiang University   Contact:  Email: ORCID:   </description>
+      <description>2023    Xu, L., Zhao, H., Wang, J., Wang, X., Jia, X., Wang, L., Xu, Z., Li, R., Jiang, K., Chen, Z., Luo, J.*, Xie, X.*, &amp;amp; Yi, K.* (2023). AIM1-dependent high basal salicylic acid accumulation modulates stomatal aperture in rice. New Phytologist, n.a. [Link] [bioRxiv]
+  Ding, Y., Zhou, M., Wang, K., Qu, A., Hu, S., Jiang, Q., Yi, K., Wang, F., Cai, C., Zhu, C.</description>
     </item>
     
     <item>
@@ -185,6 +175,15 @@ Email: yikeke@gmail.com</description>
       
       <guid>https://yilab.life/member/10_xugelou/</guid>
       <description>Research Interests:  Root system development and nutrient absorption in rice   Education:  2022 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science 2015-2022, ME and BE in Environmental Engineering, Southwest University   Contact:  Email: louxg2021@163.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Hongyu Zhao</title>
+      <link>https://yilab.life/alumni/03_hongyuzhao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/alumni/03_hongyuzhao/</guid>
+      <description>                                   Research Interests:  Evo-Devo Molecular Genetics and Evolution Bioinformatics Multi-omics analysis   Education:  PhD in Biology, Zhejiang University   Contact:  Email: ORCID:   </description>
     </item>
     
     <item>
@@ -351,14 +350,24 @@ Email: yikeke@gmail.com</description>
     </item>
     
     <item>
+      <title>Salicylic acid biosynthesis in rice shoot</title>
+      <link>https://yilab.life/post/2023newp/detail/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/post/2023newp/detail/</guid>
+      <description>Abstract   The basal levels of salicylic acid (SA) vary dramatically among plant species. In the shoot, for example, rice contains almost 100 times higher SA levels than Arabidopsis. Despite its high basal levels, neither the biosynthetic pathway nor the biological functions of SA are well understood in rice.
+  Combining with metabolites analysis, physiological, and genetic approaches, we found that the synthesis of basal SA in rice shoot is dependent on OsAIM1, which encodes a beta-oxidation enzyme in the phenylalanine ammonia-lyase (PAL) pathway.</description>
+    </item>
+    
+    <item>
       <title>Cracking the code of plant central phosphate signaling</title>
       <link>https://yilab.life/post/2022tips/detail/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/post/2022tips/detail/</guid>
       <description>Abstract Phosphate (Pi) is involved in numerous metabolic processes and plays a vital role in plant growth. Green plants have evolved intricate molecular bases of Pi-signaling to maintain cellular Pi homeostasis. Here, we summarize recent advances in the molecular and structural bases of central Pi-signaling and discuss pending questions.
-Link: https://www.sciencedirect.com/science/article/pii/S1674205222004373
-Wechat promotion (In Chinese)</description>
+ Discovery of the core elements involved in P signaling
+(A) Key studies uncovering the molecular and structural basis of P signaling machines.</description>
     </item>
     
     <item>
