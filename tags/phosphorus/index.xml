@@ -6,7 +6,16 @@
     <description>Recent content in Phosphorus on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/tags/phosphorus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/tags/phosphorus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NIGT1 represses plant growth and mitigates Pi starvation signaling</title>
+      <link>https://yilab.life/post/2023jipb/detail/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/post/2023jipb/detail/</guid>
+      <description>Abstract Inorganic phosphate (Pi) availability is an important factor that affects the growth and yield of crops, thus an appropriate and effective response to Pi-fluctuation is critical. However, how crops orchestrate Pi-signaling and growth under Pi-starvation conditions to optimize the growth defense tradeoff remains unclear. Here we show that a Pi-starvation induced transcription factor NIGT1 (NITRATE-INDUCIBLE GARP-TYPE TRANSCRIPTIONAL REPRESSOR 1) controls plant growth and prevents a hyperresponse to Pi-starvation by directly repressing the expression of growth-related and Pi-signaling genes to achieve a balance between growth and response under a varying Pi environment.</description>
+    </item>
+    
     <item>
       <title>Engineering microalgae for water phosphorus recovery to close the phosphorus cycle</title>
       <link>https://yilab.life/post/2023pbj/detail/</link>

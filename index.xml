@@ -6,7 +6,7 @@
     <description>Recent content in Home on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relevant Journals</title>
       <link>https://yilab.life/links/journals/</link>
@@ -67,11 +67,11 @@
     <item>
       <title>Publications</title>
       <link>https://yilab.life/publication/</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/publication/</guid>
-      <description>2023    Wang, L., Jia, X., Xu, L., Yu, J., Ren, S., Yang, Y., Wang, K., López-Arredondo, D., Herrera-Estrella, L., Lambers, H., &amp;amp; Yi, K.* (2023). Engineering microalgae for water phosphorus recovery to close the phosphorus cycle. Plant Biotechnology Journal, n/a(n/a). [Link] [Data]
-  Fan, H., Quan, S., Ye, Q., Zhang, L., Liu, W., Zhu, N., Zhang, X., Ruan, W., Yi, K., Crawford, N. M., &amp;amp; Wang, Y.</description>
+      <description>2023    Zhang, Y., Zhang, Q., Guo, M., Wang, X., Li, T., Wu, Q., Li, L., Yi, K.*, &amp;amp; Ruan, W.* (2023). NIGT1 represses plant growth and mitigates phosphate starvation signaling to balance the growth response tradeoff in rice. Journal of Integrative Plant Biology, n/a(n/a). [Link]
+  Wang, Z., Chen, M., Yang, H., Hu, Z., Yu, Y., Xu, H., Yan, S., Yi, K., &amp;amp; Li, J. (2023).</description>
     </item>
     
     <item>
@@ -175,6 +175,15 @@ Email: yikeke@gmail.com</description>
       
       <guid>https://yilab.life/member/10_xugelou/</guid>
       <description>Research Interests:  Root system development and nutrient absorption in rice   Education:  2022 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science 2015-2022, ME and BE in Environmental Engineering, Southwest University   Contact:  Email: louxg2021@163.</description>
+    </item>
+    
+    <item>
+      <title>Jinyu Zheng</title>
+      <link>https://yilab.life/member/17_jinyuzheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/member/17_jinyuzheng/</guid>
+      <description>Research Interests:  Rice root development and its interaction with soil   Education:  2023 - Present, PhD in Plant Nutrition, Chinese Academy of Agricultural Science ME in Bioengineering, Shaanxi Normal University BE in Bioengineering, Northwest A&amp;amp;F University   Contact:  Email: 2569622282@qq.</description>
     </item>
     
     <item>
@@ -347,6 +356,15 @@ Email: yikeke@gmail.com</description>
       <guid>https://yilab.life/member/16_jianhaoren/</guid>
       <description>Jianhao Ren，a graduate student from Chinese Academy of Agriculture Science，majors in Plant Nutrition.
  Research Interests:  Plant Physiology   Education:  2022 - Present, MSc in Plant Nutrition, Chinese Academy of Agriculture Science 2018 - 2022, Bachelor of Resource and Environment Science, South China Agriculture University   Contact:  Email: 1371918092@qq.</description>
+    </item>
+    
+    <item>
+      <title>NIGT1 represses plant growth and mitigates Pi starvation signaling</title>
+      <link>https://yilab.life/post/2023jipb/detail/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/post/2023jipb/detail/</guid>
+      <description>Abstract Inorganic phosphate (Pi) availability is an important factor that affects the growth and yield of crops, thus an appropriate and effective response to Pi-fluctuation is critical. However, how crops orchestrate Pi-signaling and growth under Pi-starvation conditions to optimize the growth defense tradeoff remains unclear. Here we show that a Pi-starvation induced transcription factor NIGT1 (NITRATE-INDUCIBLE GARP-TYPE TRANSCRIPTIONAL REPRESSOR 1) controls plant growth and prevents a hyperresponse to Pi-starvation by directly repressing the expression of growth-related and Pi-signaling genes to achieve a balance between growth and response under a varying Pi environment.</description>
     </item>
     
     <item>
