@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>2021 National Congress of Plant Biology (NCPB)</title>
-      <link>https://yilab.life/gallery/202112ncpb/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yilab.life/gallery/202112ncpb/gallery/</guid>
-      <description>                                                  </description>
-    </item>
-    
-    <item>
       <title>Congratulations - 2021.05</title>
       <link>https://yilab.life/gallery/2021summer/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -52,6 +43,16 @@
       
       <guid>https://yilab.life/gallery/2018summer/gallery/</guid>
       <description>                                  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yilab.life/gallery/2021ncpb/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/gallery/2021ncpb/gallery/</guid>
+      <description>title: &amp;ldquo;2021 National Congress of Plant Biology (NCPB)&amp;rdquo; draft: false weight: 98 thumbnail: &amp;ldquo;gallery/2021ncpb/cover.png&amp;rdquo; # Thumbnail image thumbnail_hide_post: true # Hide thumbnail on single post view
+authorbox: false # Enable authorbox for specific page pager: false # Enable pager navigation (prev/next) for specific page toc: false # Enable Table of Contents for specific page sidebar: &amp;ldquo;right&amp;rdquo; # Enable sidebar (on the right side) per page sitemap_hide: false # Do not add this page to the sitemap lead: &amp;ldquo;2021.</description>
     </item>
     
   </channel>
