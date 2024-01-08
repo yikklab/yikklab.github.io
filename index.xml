@@ -6,7 +6,7 @@
     <description>Recent content in Home on YiLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yilab.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relevant Journals</title>
       <link>https://yilab.life/links/journals/</link>
@@ -71,9 +71,8 @@ Genome PLAZA* Phytozome* ONEKP* Ensembl Plants CoGe GDA - Genome Database for An
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://yilab.life/publication/</guid>
-      <description>2023 Zhao, B., Jia, X., Yu, N.*, Murray, J.*, Yi, K.*, &amp;amp; Wang, E.* (2023) Microbe-dependent and independent nitrogen and phosphate acquisition in plants. New Phytologist. n/a. [Link]
-Jia, X., Wang, L., and Yi, K.* (2023). Crosstalk between phosphate and other nutrients. In Plant Phosphorus Nutrition (CRC Press: Boca Raton). pp. 48–58. [Link]
-Zeng, H., Zhu, Q., Yuan, P., Yan, Y., Yi, K., and Du, L. (2023). Calmodulin and calmodulin-like protein-mediated plant responses to biotic stresses.</description>
+      <description>See also: https://scholar.google.com/citations?user=KaLd_c8AAAAJ&amp;amp;hl=en
+2024 Guo, M. Ruan, W., Li, R., Xu, L., Hani, S., Zhang, Q., David, P., Ren, J., Zheng, B., Nussaume, L., Yi, K.*. (2024) Visualizing plant intracellular inorganic orthophosphate distribution. Nature Plants. (In press) 2023 Yu, J., Wang, L., Jia, X., Wang, Z., Yu, X., Ren, S., Yang, Y., Ye, X., Wu, X., Yi, K.*, &amp;amp; Zhu, Y. (2023). Different microbial assembly between cultivated and wild tomatoes under P stress.</description>
     </item>
     
     <item>
@@ -375,6 +374,15 @@ Research Interests: Plant Physiology Education: 2022 - Present, MSc in Plant Nut
       <guid>https://yilab.life/member/18_fanshi/</guid>
       <description> The Chinese Academy of Agricultural Sciences and Zhejiang Normal University jointly trained graduate student
 Research Interests: Molecular Biology Education: 2022- Present, MSc in Biology, Zhejiang Normal University 2018-2022, Bachelor of Biology Science, YuLin University Contact: Email: 1425389698@qq.com ORCID: </description>
+    </item>
+    
+    <item>
+      <title>Visualizing plant intracellular inorganic orthophosphate distribution</title>
+      <link>https://yilab.life/post/2024np/detail/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://yilab.life/post/2024np/detail/</guid>
+      <description>Abstract Intracellular inorganic orthophosphate (Pi) distribution and homeostasis profoundly affect plant growth and development. However, its distribution patterns remain elusive owing to the lack of efficient cellular Pi imaging methods. Here we develop a rapid colorimetric Pi imaging method, inorganic orthophosphate staining assay (IOSA), that can semi-quantitatively image intracellular Pi with high resolution. We used IOSA to reveal the alteration of cellular Pi distribution caused by Pi starvation or mutations that alter Pi homeostasis in two model plants, rice and Arabidopsis, and found that xylem parenchyma cells and basal node sieve tube element cells play a critical role in Pi homeostasis in rice.</description>
     </item>
     
     <item>
